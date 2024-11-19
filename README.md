@@ -31,6 +31,8 @@ AlgoHub is an innovative educational platform designed to help programmers devel
 - **Practical Learning:** Offers opportunities for programmers to apply their knowledge to real-world projects.  
 - **Enhanced Problem-Solving Skills:** Helps learners improve their programming mindset and solve problems effectively.  
 - **Developing Complex Systems:** The projects are designed to teach programmers how to handle advanced services.  
+- **Developing Logical Thinking:** Helps learners enhance their logical reasoning skills and gain a deeper understanding of algorithms.  
+- **Algorithmic Programming Application:** Empowers learners to transform theoretical concepts into efficient programming solutions.  
 
 ---
 
@@ -74,6 +76,9 @@ AlgoHub هو منصة تعليمية مبتكرة تهدف إلى تمكين ا�
 - **تعلم عملي:** يقدم فرصًا للمبرمجين لتطبيق ما تعلموه على مشاريع حقيقية.  
 - **تحسين مهارات حل المشكلات:** يساعد المتعلمين على تحسين قدرتهم على التفكير البرمجي وحل المشكلات بفعالية.  
 - **تطوير الأنظمة المعقدة:** المشاريع المقدمة مصممة لتعليم المبرمجين كيفية التعامل مع الخدمات المعقدة.  
+- **تطوير التفكير المنطقي:** يساعد المتعلمين على تعزيز قدرتهم على التفكير المنطقي وفهم الخوارزميات بعمق.  
+- **التطبيق البرمجي بالخوارزميات:** يمكن المتعلمين من تحويل المفاهيم النظرية إلى حلول برمجية فعّالة.  
+
 
 ---
 
