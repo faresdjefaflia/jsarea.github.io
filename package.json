@@ -1,17 +1,39 @@
 {
-  "name": "nuxt-app",
+  "name": "JSAlgoHub",
+  "version": "1.0.0",
   "private": true,
   "type": "module",
+  "description": "JSAlgoHub is a website that features challenges and a collection of advanced and complex JavaScript projects. It aims to help learners apply algorithms and solve problems more effectively and efficiently.",
+  "author": "elmoziml",
+  "license": "CC BY-NC-SA 4.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/elmoziml/JSAlgoHub"
+  },
+  "bugs": {
+    "url": "https://github.com/elmoziml/JSAlgoHub/issues"
+  },
+  "homepage": "https://github.com/elmoziml/JSAlgoHub#readme",
   "scripts": {
     "build": "nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "postinstall": "nuxt prepare",
+    "update": "npm update", 
+    "upgrade": "npm upgrade",
+    "check-updates": "npm outdated"  
   },
   "dependencies": {
+    "@nuxt/content": "^2.13.4",
+    "@nuxtjs/google-fonts": "^3.2.0",
     "nuxt": "^3.14.1592",
     "vue": "latest",
     "vue-router": "latest"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.49",
+    "tailwindcss": "^3.4.16"
   }
 }
